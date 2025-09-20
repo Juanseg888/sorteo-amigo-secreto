@@ -14,7 +14,7 @@
     <li>Visualización de resultado: El resultado se mostrará en un color verde lima y estará estructurado de la siguiente manera; por ejemplo, Pepito le regala a Pepita, Armando le regala a Betty, y así sucesivamente, dependiendo de la cantidad de amigos que ingrese el usuario.
   </ul>
   <h3>🎮 Acceso al proyecto</h3>
-  <p>Para acceder al proyecto y ejecutarlo, deberás hacer click en el siguiente enlace: XXXXXXXXX, y siguiendo los pasos del punto anterior, podrás probarlo por ti mismo 🙂.</p>
+  <p>Para acceder al proyecto y ejecutarlo, deberás descargar la carpeta comprimida. Una vez descargada, la descomprimes y abres el archivo <code>index.html</code> en tu navegador favorito (como recomendación; usar navegadores modernos como Chrome, Mozilla o Edge), y siguiendo los pasos del punto anterior, podrás probarlo por ti mismo 🙂.</p>
   <h3>✔️ Tecnologías utilizadas</h3>
   <ul>
     <li>HTML5.
