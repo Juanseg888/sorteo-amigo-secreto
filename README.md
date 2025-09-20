@@ -9,9 +9,9 @@
 <body>
 <h3>🔨 Funcionalidades del proyecto</h3>
   <ul>
-    <li>Funcionalidad 1: descripción de la funcionalidad 1.
-    <li>Funcionalidad 2: descripción de la funcionalidad 2.
-    <li>Funcionalidad 3: descripción de la funcionalidad 2.
+    <li>Visualización de los nombres ingresados en formato de lista: Una vez ingresados los nombres en la caja de texto, sólo queda clicar sobre el botón "Añadir" para que automáticamente se muestren en la pantalla siguiendo un formato de lista. Se le informará al usuario si el valor ingresado es nulo y también en el caso de que el nombre ya haya sido ingresado.
+    <li>Sorteo de jugadores: Teniendo al menos dos nombres en la lista, se podrá efectuar el sorteo dando click al botón "Sortear amigos".
+    <li>Visualización de resultado: El resultado se mostrará en un color verde lima y estará estructurado de la siguiente manera; por ejemplo, Pepito le regala a Pepita, Armando le regala a Betty, y así sucesivamente, dependiendo de la cantidad de amigos que ingrese el usuario.
   </ul>
   <h3>🎮 Acceso al proyecto</h3>
   <p>Para acceder al proyecto y ejecutarlo, deberás hacer click en el siguiente enlace: XXXXXXXXX, y siguiendo los pasos del punto anterior, podrás probarlo por ti mismo 🙂.</p>
@@ -21,6 +21,6 @@
     <li>CSS3.
     <li>JavaScript.
   </ul>
-  <h3>Personas desarolladoras del proyecto</h3>
-  <img src='' width=115><br><sub>Juan Sebastián Gómez Vera</sub>
+  <h3>👷‍♂️ Personas desarolladoras del proyecto</h3>
+  <img src='foto-perfil-profesional.png' width=130><p>Juan Sebastián Gómez Vera</p>
 </body>
